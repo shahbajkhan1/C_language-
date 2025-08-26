@@ -54,7 +54,28 @@ int main()
 
 	 printf("%f",calValue);*/
 
+	/*  float a = 8.9;
+    float b = 1.67;
+    float c = 6.21;
+    float d = 5.6;
+    float e = 7.8;
+    int f = 34;
+    int g = 157;
+    
+    float h = a*b-(c-d)+e-f+g; 
+    
+    printf("%f",h);*/
 
+
+   /* float a = 3.4;
+    float b =1.2;
+    float c = 3.7;
+    float d = 1.2;
+    int e = 2;
+    float f = 6.8;
+    float g = a+b*(c-d)/e+f;
+    
+    printf("%f",g);*/
 
 
 }
